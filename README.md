@@ -36,21 +36,20 @@
 
 ## Usage
 
->[!WARNING]
->Vendetta was **discontinued** on February 7. 2024. Use [Revenge](https://github.com/revenge-mod) or [Bunny](https://github.com/pyoncord/Bunny) instead. They both support Vendetta's themes!
+> [!WARNING]
+> Vendetta was **discontinued** on February 7. 2024. Use [Revenge](https://github.com/revenge-mod) or [Bunny](https://github.com/pyoncord/Bunny) instead. They both support Vendetta's themes!
 
 1. Choose a flavor, and copy its link below:
-	- **Latte**: https://raw.githubusercontent.com/catppuccin/vendetta/main/latte.json
-	- **Frappe**: https://raw.githubusercontent.com/catppuccin/vendetta/main/frappe.json
-	- **Macchiato**: https://raw.githubusercontent.com/catppuccin/vendetta/main/macchiato.json
-	- **Mocha**:  https://raw.githubusercontent.com/catppuccin/vendetta/main/mocha.json
+   - **Latte**: https://raw.githubusercontent.com/BomberFish/vendetta-mauve/main/latte.json
+   - **Frappe**: https://raw.githubusercontent.com/BomberFish/vendetta-mauve/main/frappe.json
+   - **Macchiato**: https://raw.githubusercontent.com/BomberFish/vendetta-mauve/main/macchiato.json
+   - **Mocha**: https://raw.githubusercontent.com/BomberFish/vendetta-mauve/main/mocha.json
 2. Head to `You Tab (aka Settings)` > `Vendetta` > `Themes`
 3. Paste the copied link and press `Install`
 4. Select your theme and you're ready to go!
 
 > [!IMPORTANT]
 > Light mode can be used **only with Latte theme**.
-
 
 ## Icon packs
 
